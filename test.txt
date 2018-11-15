@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4CB6-B9E1
+
+ Directory of C:\Users\nmishra\Desktop\my projectGIT
+
+15-11-2018  09:42    <DIR>          .
+15-11-2018  09:42    <DIR>          ..
+15-11-2018  09:42                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,261,522,432 bytes free
